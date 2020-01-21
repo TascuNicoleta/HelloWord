@@ -14,4 +14,5 @@ Pod::Spec.new do |s|
   }
   s.source_files        = "HelloWord/**/*.{h,m,swift}"
   s.public_header_files = "HelloWord/**/*.h"
+#hello
 end
